@@ -1,5 +1,5 @@
 def hello
-  p "hello, PornHub."
+  p "hello, Git."
 end
 
 hello
